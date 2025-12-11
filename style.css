@@ -1,5 +1,5 @@
 body {
-    margin-left: 40%;
+    margin-left:40%;
     margin-right:40%;
     text-align: justify;
     font-family: "Lilex", monospace;
@@ -33,6 +33,19 @@ h1,h2,h3,h4,h5,h6 {
     text-align:center;
     font-family: monospace;
     color: black;
+}
+
+.hidden-button {
+    text-decoration-line: none;
+    color: #112211;
+}
+.hidden-button:visited {
+    text-decoration-line: underline;
+    color: unset;
+}
+.hidden-button:hover {
+    text-decoration-line: underline;
+    cursor:pointer;
 }
 
 .button {
