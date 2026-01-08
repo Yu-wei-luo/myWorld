@@ -5,14 +5,14 @@ html {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+}
+html, body {
     min-height: 100%;
 }
-
 body {
     margin-left: 10%;
     margin-right: 10%;
     text-align: justify;
-    min-height: 100%;
 
     font-family: "Lilex", monospace;
     color: #112211;
