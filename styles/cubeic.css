@@ -6,6 +6,8 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    background: #ccffbb;
+    color: #112211;
 }
 
 img {
@@ -33,12 +35,26 @@ h1,h2,h3,h4,h5,h6 {
     color: black;
 }
 
+.hidden-button {
+    text-decoration-line: none;
+    color: #112211;
+}
+.hidden-button:visited {
+    text-decoration-line: underline;
+    color: unset;
+}
+.hidden-button:hover {
+    text-decoration-line: underline;
+    cursor:pointer;
+}
+
 .button {
     font-family: "Lilex", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    color: #0000ff;
+    color: #6688ff;
+    background-color: #bbffaa;
 }
 .button:hover {
     cursor:pointer;
