@@ -5,17 +5,20 @@ html {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    min-height: 100%;
 }
 
 body {
     margin-left: 10%;
     margin-right: 10%;
     text-align: justify;
+    min-height: 100%;
 
     font-family: "Lilex", monospace;
     color: #112211;
 
     background-color: rgba(204 255 187 0.5)
+    
 }
 
 img {
