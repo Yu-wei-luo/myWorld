@@ -11,7 +11,7 @@ body {
     background: #ccffbb;
     color: #112211;
 
-    background-image: url("/myWorld/images/windowsXP.png");
+    background-image: url("../images/windowsXP.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
