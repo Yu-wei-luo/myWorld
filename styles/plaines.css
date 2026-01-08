@@ -4,7 +4,6 @@ html {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    background-color: #ccffbb;
 }
 
 body {
@@ -17,7 +16,6 @@ body {
     font-weight: 400;
     font-style: normal;
 
-    background: transparent !important;
     color: #112211;
 }
 
@@ -70,12 +68,4 @@ h1,h2,h3,h4,h5,h6 {
 .button:hover {
     cursor:pointer;
     border: 2px solid black;
-}
-
-html {
-    background: red !important;
-}
-
-body {
-    background: blue !important;
 }
