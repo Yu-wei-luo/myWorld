@@ -15,7 +15,7 @@ body {
     font-family: "Lilex", monospace;
     color: #112211;
 
-    background: transparent;
+    background-color: rgba(204 255 187 0.5)
 }
 
 img {
@@ -62,7 +62,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight: 400;
     font-style: normal;
     color: #6688ff;
-    background-color: #bbffaa;
+    background-color: rgba(204 255 187 0.5)
 }
 .button:hover {
     cursor:pointer;
