@@ -1,3 +1,12 @@
+html {
+    background-image: url("/myWorld/images/windowsXP.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #ccffbb;
+}
+
 body {
     margin-left:10%;
     margin-right:10%;
@@ -10,12 +19,6 @@ body {
 
     background: transparent !important;
     color: #112211;
-
-    background-image: url("/myWorld/images/windowsXP.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
 }
 
 img {
