@@ -20,24 +20,28 @@ img {
     margin-left:auto;
     margin-right:auto;
     width: auto;
+    text-indent: 0%;
 }
 
 h1,h2,h3,h4,h5,h6 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
+    text-indent: 0%;
 }
 
 .subheading {
     text-align:center;
     font-family: monospace;
     color:#333355;
+    text-indent: 0%;
 }
 
 .divider {
     text-align:center;
     font-family: monospace;
     color: black;
+    text-indent: 0%;
 }
 
 .button {

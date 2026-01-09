@@ -18,24 +18,28 @@ footer {
 img {
     display: block;
     width: auto;
+    text-indent: 0%;
 }
 
 h1,h2,h3,h4,h5,h6 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
+    text-indent: 0%;
 }
 
 .subheading {
     text-align:center;
     font-family: monospace;
     color:#772222;
+    text-indent: 0%;
 }
 
 .divider {
     text-align:center;
     font-family: monospace;
     color: black;
+    text-indent: 0%;
 }
 
 .hidden-button {
