@@ -5,9 +5,14 @@ body {
     font-weight: 400;
     font-style: normal;
     text-indent: 10%;
-    
+
     background: #990000;
     color: #440000;
+}
+
+footer {
+    text-align: center;
+    text-indent: 0%;
 }
 
 img {
