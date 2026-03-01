@@ -13,7 +13,7 @@ learningRate = 0.2
 futureWeight = 0.2
 gameBoundaries = 100.0
 timeLimit = 100
-episodeNum = 1000
+episodeNum = 10000
 map_width = 40
 
 Q = {}
